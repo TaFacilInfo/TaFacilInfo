@@ -1,9 +1,8 @@
 ### Oi! Eu sou José Carlos!
 
+<div align="justify">
 - 🔭 Hoje trabalho com SQL.
 - 🌱 No momento estou participando do programa START by Capgemini, no qual sou muito grato!<br>
-
-<div align="justify">
 O programa é uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos que, quando você terminar, terá a chance de conquistar uma das mais de 500 vagas, disponíveis inicialmente, para trabalhar no time Capgemini!<br>
 Você escolhe sua trilha nas principais plataformas (JAVA, SALESFORCE, SERVICE NOW e CLOUD)
 </div>
