@@ -30,7 +30,7 @@ Você escolhe sua trilha nas principais plataformas (JAVA, SALESFORCE, SERVICE N
   <a href="https://instagram.com/jcds74dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:jcds74dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-dos-santos-9b464320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+ 
  ![Snake animation](https://github.com/tafacilinfo/tafacilinfo/blob/output/github-contribution-grid-snake.svg)
 </div>
 
